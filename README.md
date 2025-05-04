@@ -1,6 +1,6 @@
 # Identity Appeal Classifier
 
-This project uses OpenAI's GPT-4 to classify U.S. House candidate tweet replies as racial or gender identity appeals.
+This project uses OpenAI's GPT-4 to classify 2020 U.S. House candidate tweet replies as racial or gender identity appeals.
 
 ## Structure
 
