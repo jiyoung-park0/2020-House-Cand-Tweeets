@@ -2,7 +2,7 @@
 
 **Authors:** Young Seok Kim & Jiyoung Park  
 
-This repository contains the full code and data-processing workflow for the paper _"Demand Side of Identity-Based Appeals in Electoral Campaigns."_ The project explores how voters respond to identity-based political messages—specifically racial and gender identity appeals—by analyzing replies to tweets by 2020 U.S. House candidates using LLM.
+This repository contains the full code and data-processing workflow for the paper _"Demand Side of Identity-Based Appeals in Electoral Campaigns."_ The project explores how voters respond to identity-based political messages—specifically racial and gender identity appeals—by analyzing replies to and original tweets from 2020 U.S. House candidates using large language models.
 
 ---
 
