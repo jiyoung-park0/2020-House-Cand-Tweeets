@@ -6,13 +6,13 @@ This repository contains the full code and data-processing workflow for the pape
 
 ---
 
-## 🔍 Overview
+## Overview
 
 This project implements an identity appeal classifier using OpenAI's GPT models (GPT-4, GPT-4o) to detect racial and gender identity appeals in electoral campaign discourse. The classifier is applied to tweet replies and original tweets from U.S. House candidates in the 2020 election.
 
 ---
 
-## 📁 File Structure
+## File Structure
 
 ```text
 .
