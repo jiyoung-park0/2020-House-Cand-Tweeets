@@ -1,4 +1,4 @@
-# Demand Side of Identity-Based Appeals in Election Campaigns
+# Voter Demands for Identity-Based Appeals in Election Campaigns
 
 **Authors:** Young Seok Kim & Jiyoung Park & Jeong Hyun Kim
 
