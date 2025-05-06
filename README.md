@@ -21,8 +21,11 @@ This project implements an identity appeal classifier using OpenAI's GPT models 
 ├── replies_data_processed.xlsx            # GPT-labeled reply data (voter replies)
 ├── original_tweets_processed.xlsx         # GPT-labeled original candidate tweets
 └── README.md                              # You're reading it!
+```
 
+---
 ## Citation
+
 
 If you use this code or data in your work, please cite:  
 
